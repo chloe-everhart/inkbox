@@ -25,7 +25,7 @@ Quill features:
 You can download precompiled OS/binaries [here](http://23.163.0.39/bundles/inkbox/native/) and standard Nickel add-ons (outdated, unmaintained) are available [here](http://23.163.0.39/bundles/inkbox/nickel/), although support for them has been stopped until further notice. Huge thanks to [@fermino](https://github.com/fermino) for providing free hosting.
 <br>
 
-On Windows, use [balenaEtcher](https://www.balena.io/etcher/) to flash the InkBox image file to the Kobo's SD card.
+On Windows, use [balenaEtcher](https://www.balena.io/etcher/) to flash the Quill image file to the Kobo's SD card.
 
 On Linux and MacOS, [balenaEtcher](https://www.balena.io/etcher/) is the easiest option for command-line-reluctant users.
 Alternatively, you can also open a terminal and check the device node of the Kobo's SD card with `fdisk -l`. Then `dd` the image to the SD card like this:
