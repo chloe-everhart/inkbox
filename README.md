@@ -36,7 +36,7 @@ Quill features:
 - Enhanced power management
 - Lock screen/passcode option
 - User-friendly experience
-## How do I install InkBox?
+## How do I install Quill?
 You can download precompiled OS/binaries [here](http://23.163.0.39/bundles/inkbox/native/) and standard Nickel add-ons (outdated, unmaintained) are available [here](http://23.163.0.39/bundles/inkbox/nickel/), although support for them has been stopped until further notice. Huge thanks to [@fermino](https://github.com/fermino) for providing free hosting.
 <br>
 
